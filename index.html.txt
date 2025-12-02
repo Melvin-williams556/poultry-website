@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poultry Farm | Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>GoldenFeathers Poultry Farm</h1>
+    <p>Healthy Birds • Quality Eggs • Trusted by Many</p>
+</header>
+
+<nav class="topnav">
+    <a class="active" href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+    <img src="images/poultry-hero.jpg" width="100%" alt="Poultry farm banner">
+</section>
+
+<section>
+    <h2>Welcome to GoldenFeathers</h2>
+    <p>We raise high-quality poultry with modern standards and natural feeding systems designed to keep birds healthy and productive.</p>
+</section>
+
+<footer>
+    <p>© 2025 GoldenFeathers Poultry Farm</p>
+</footer>
+
+</body>
+</html>

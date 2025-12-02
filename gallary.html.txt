@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poultry Farm | Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="topnav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a class="active" href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+    <h2>Gallery</h2>
+
+    <figure>
+        <img src="images/chicks.jpg" width="45%" alt="Chicks">
+        <img src="images/broilers.jpg" width="45%" alt="Broiler chickens">
+    </figure>
+
+    <figure>
+        <img src="images/eggs.jpg" width="45%" alt="Eggs">
+        <img src="images/farm.jpg" width="45%" alt="Poultry farm environment">
+    </figure>
+
+</section>
+
+<footer>
+    <p>© 2025 GoldenFeathers Poultry Farm</p>
+</footer>
+
+</body>
+</html>

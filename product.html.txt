@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poultry Farm | Products</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="topnav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a class="active" href="products.html">Products</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+    <h2>Our Products</h2>
+
+    <table>
+        <tr>
+            <th>Product</th>
+            <th>Description</th>
+            <th>Price (GH₵)</th>
+        </tr>
+        <tr>
+            <td>Live Chicken</td>
+            <td>Healthy live broilers</td>
+            <td>45</td>
+        </tr>
+        <tr>
+            <td>Eggs (Crate)</td>
+            <td>Fresh brown eggs</td>
+            <td>32</td>
+        </tr>
+        <tr>
+            <td>Processed Chicken</td>
+            <td>Cleaned and packaged</td>
+            <td>60</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h3>How to Make a Purchase</h3>
+    <ol>
+        <li>Select the product you want.</li>
+        <li>Contact our sales department.</li>
+        <li>Make payment.</li>
+        <li>Choose pickup or delivery.</li>
+    </ol>
+</section>
+
+<footer>
+    <p>© 2025 GoldenFeathers Poultry Farm</p>
+</footer>
+
+</body>
+</html>

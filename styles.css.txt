@@ -1,0 +1,70 @@
+/* NAVBAR - adapted from W3Schools */
+.topnav {
+  overflow: hidden;
+  background-color: #2E7D32; /* dark green */
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #AED581; /* light green */
+  color: black;
+}
+
+.topnav .active {
+  background-color: #66BB6A;
+  color: white;
+}
+
+/* GENERAL */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f6f6f6;
+}
+
+header, footer {
+  padding: 20px;
+  background-color: #E1F5FE;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  margin: 15px;
+  background: white;
+  border-radius: 6px;
+}
+
+h1, h2, h3 {
+  color: #2E7D32;
+}
+
+img {
+  border-radius: 6px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background: #fff;
+}
+
+table, th, td {
+  border: 1px solid #bbb;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
